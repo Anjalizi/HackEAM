@@ -216,7 +216,19 @@ iframe {
   overflow: hidden;
 }
 
+.wrap-login200 {
+  width: 600px;
+  background: #fff;
+  border-radius: 3px;
+  overflow: hidden;
+}
 
+.wrap-loginPAGE {
+  width: 600px;
+  background: #fff;
+  border-radius: 3px;
+  overflow: hidden;
+}
 
 /*------------------------------------------------------------------
 [  ]*/

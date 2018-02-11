@@ -65,7 +65,7 @@ p {
 /*-- header styling starts here --*/
 /*-- header styling starts here --*/
 .agileits_main{
-	background:url(../images/1.jpg) no-repeat 0px 0px;
+	background:url(../images/bgkaks.png) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -74,13 +74,15 @@ p {
 }
 .w3_agile_logo {
 	margin: 2em 0;
+    color: #000;
 }
 .w3_agile_logo h1 a{
+    font-family: 'Nunito', sans-serif;
 	font-size: 1.1em;
-    color:#fff;
+    color:#000;
     position: relative;
     text-decoration: none;
-	text-transform:uppercase;
+	/*text-transform:uppercase;*/
     font-weight: 600;
 }
 i.agileits-logo.fa.fa-plus {
@@ -100,11 +102,12 @@ i.agileits-logo.fa.fa-plus {
     padding: 18em 0 23em;
 }
 .banner_text_w3layouts h3 {
+    font-family: 'Nunito', sans-serif;
     color: #fff;
-    font-size: 3em;
+    font-size: 4em;
     margin: 0;
 	letter-spacing:10px;
-    text-transform: uppercase;
+   /* text-transform: uppercase;*/
 }
 .banner_text_w3layouts p {
     color: #fff;
@@ -358,7 +361,7 @@ i.agileits-logo.fa.fa-plus {
 .m_nav_ham {
     width: 30px;
     height: 3px;
-    background: #fff;
+    background: #000;
     margin: 5px auto;
 }
 .m_nav_ham_1_open {
@@ -1559,6 +1562,7 @@ span.agileits-copy.fa.fa-plus {
 	}
 	.w3_agile_logo h1 a {
 		font-size: 1em;
+        font-family: 'Nunito', sans-serif;
 	}
 	.wthree-s1 {
 		width: 46%;

@@ -109,7 +109,7 @@ samp {
   font-family: monospace, monospace;
   font-size: 1em;
 }
-button,
+/*button,
 input,
 optgroup,
 select,
@@ -124,8 +124,8 @@ button {
 button,
 select {
   text-transform: none;
-}
-button,
+}*/
+/*button,
 html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
@@ -139,7 +139,7 @@ html input[disabled] {
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   padding: 0;
-  border: 0;
+  border: 0;*/
 }
 input {
   line-height: normal;
@@ -1090,8 +1090,6 @@ body {
   background-color: #fff;
 }
 input,
-button,
-select,
 textarea {
   font-family: inherit;
   font-size: inherit;
@@ -3001,7 +2999,7 @@ select[multiple].input-lg {
     font-size: 12px;
   }
 }
-.btn {
+/*.btn {
   display: inline-block;
   padding: 6px 12px;
   margin-bottom: 0;
@@ -3021,7 +3019,7 @@ select[multiple].input-lg {
   background-image: none;
   border: 1px solid transparent;
   border-radius: 4px;
-}
+}*/
 .btn:focus,
 .btn:active:focus,
 .btn.active:focus,
